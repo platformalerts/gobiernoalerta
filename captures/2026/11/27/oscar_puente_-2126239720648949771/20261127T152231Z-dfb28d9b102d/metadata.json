@@ -1,0 +1,41 @@
+{
+    "schema_version": 1,
+    "capture_id": "2126239720648949771-20261127T152231Z-dfb28d9b102d",
+    "tweet_id": "2126239720648949771",
+    "username": "oscar_puente_",
+    "source_url": "https://x.com/oscar_puente_/status/2126239720648949771",
+    "post_published_at_utc": "2026-11-27T09:00:27Z",
+    "capture_requested_at_utc": "2026-11-27T15:22:21Z",
+    "local_archive_completed_at_utc": "2026-11-27T15:22:31Z",
+    "record_prepared_at_utc": "2026-11-27T15:23:30Z",
+    "provider_rendered_at_utc": null,
+    "provider_cache_status": "unknown",
+    "provider": "Microlink Screenshot API",
+    "microlink_asset_url": "https://iad.microlink.io/n-hJ74ylKIntWAZMyBgD-sUPitzEnhCJHg1pOTZBdM634iwdLHN63APXPTAaen5LK1JpPdJyr_kM8lCNtlBeUg.png",
+    "request_parameters": {
+        "url": "https://x.com/oscar_puente_/status/2126239720648949771",
+        "screenshot": "true",
+        "meta": "false",
+        "prerender": "true",
+        "screenshot.type": "png",
+        "waitForTimeout": "3s",
+        "styles": "#layers,[role=\"dialog\"],[aria-modal=\"true\"],[data-testid=\"mask\"]{display:none!important}",
+        "viewport.width": 1000,
+        "viewport.height": 1200,
+        "data.pageText.selector": "body",
+        "data.pageText.attr": "text"
+    },
+    "capture_configuration_source": "saved_request_parameters",
+    "image": {
+        "filename": "screenshot.png",
+        "media_type": "image/png",
+        "bytes": 374604,
+        "width": 2000,
+        "height": 2400,
+        "sha256": "dfb28d9b102dedd51163a79d888cfbc625e8fefe043d94c3561fec927b1c22d6"
+    },
+    "archive_repositories": [
+        "platformalerts/gobiernoalerta"
+    ],
+    "github_path": "captures/2026/11/27/oscar_puente_-2126239720648949771/20261127T152231Z-dfb28d9b102d"
+}
